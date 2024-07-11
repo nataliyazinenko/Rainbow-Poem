@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Pink.
 Purple.
@@ -6,6 +6,7 @@ Blue.
 White.
 Red.
 Unicorn. 
+Pony.
 
 These are the colours of my rainbow. 
-And the Unicorn. 
+And the Unicorn. And pony.
