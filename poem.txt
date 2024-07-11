@@ -4,4 +4,5 @@ Pink.
 Purple.
 Blue.
 White.
+Red.
 These are the colours of my rainbow. 
