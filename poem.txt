@@ -3,4 +3,5 @@ The Rainbow
 Pink.
 Purple.
 Blue.
+White.
 These are the colours of my rainbow. 
